@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Projects | Academic</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Dec 2020 22:17:15 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/</link>
+      <title>Projects</title>
+      <link>/project/</link>
     </image>
     
     <item>
@@ -25,22 +25,6 @@
       <link>/project/individual_project/</link>
       <pubDate>Sat, 19 Dec 2020 22:16:59 +0300</pubDate>
       <guid>/project/individual_project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5 декабря - День Волонтера</title>
-      <link>/post/volunteer/</link>
-      <pubDate>Sat, 05 Dec 2020 17:51:48 +0300</pubDate>
-      <guid>/post/volunteer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
-      <link>/publication/service_process_of_multi_band/</link>
-      <pubDate>Thu, 01 Jan 1970 03:33:40 +0300</pubDate>
-      <guid>/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
     

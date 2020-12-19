@@ -5,12 +5,28 @@
     <link>/author/e.-golos/</link>
       <atom:link href="/author/e.-golos/index.xml" rel="self" type="application/rss+xml" />
     <description>E. Golos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 1970 03:33:40 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Dec 2020 22:17:15 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>E. Golos</title>
       <link>/author/e.-golos/</link>
     </image>
+    
+    <item>
+      <title>Group project</title>
+      <link>/project/group_project/</link>
+      <pubDate>Sat, 19 Dec 2020 22:17:15 +0300</pubDate>
+      <guid>/project/group_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Individual project</title>
+      <link>/project/individual_project/</link>
+      <pubDate>Sat, 19 Dec 2020 22:16:59 +0300</pubDate>
+      <guid>/project/individual_project/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
