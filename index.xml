@@ -5,7 +5,7 @@
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Dec 2020 22:17:15 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Group project</title>
-      <link>/project/group_project/</link>
-      <pubDate>Sat, 19 Dec 2020 22:17:15 +0300</pubDate>
-      <guid>/project/group_project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>5 декабря - День Волонтера</title>
       <link>/post/volunteer/</link>
       <pubDate>Sat, 05 Dec 2020 17:51:48 +0300</pubDate>
       <guid>/post/volunteer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Group project</title>
+      <link>/project/group_project/</link>
+      <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
+      <guid>/project/group_project/</guid>
       <description></description>
     </item>
     
