@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>/project/individual_project/</loc>
-    <lastmod>2020-12-19T22:16:59+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/volunteer/</loc>
     <lastmod>2020-12-05T17:51:48+03:00</lastmod>
   </url>
@@ -55,6 +50,11 @@
   <url>
     <loc>/post/</loc>
     <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/individual_project/</loc>
+    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
   </url>
   
   <url>
