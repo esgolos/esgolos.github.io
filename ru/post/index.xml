@@ -5,7 +5,7 @@
     <link>/ru/post/</link>
       <atom:link href="/ru/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-Hans</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>

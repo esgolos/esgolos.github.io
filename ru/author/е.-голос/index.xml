@@ -5,7 +5,7 @@
     <link>/ru/author/%D0%B5.-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/</link>
       <atom:link href="/ru/author/%D0%B5.-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/index.xml" rel="self" type="application/rss+xml" />
     <description>Е. Голос</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-Hans</language><lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
       <title>Е. Голос</title>
@@ -29,18 +29,18 @@
     </item>
     
     <item>
-      <title>Индивидуальный проект</title>
-      <link>/ru/ru/project/individual_project/</link>
-      <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
-      <guid>/ru/ru/project/individual_project/</guid>
+      <title>Модель обслуживания трафика NR на базовых станциях LTE</title>
+      <link>/ru/publication/service_process_of_multi_band/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/ru/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Модель обслуживания трафика NR на базовых станциях LTE</title>
-      <link>/ru/publication/service_process_of_multi_band/</link>
+      <link>/ru/ru/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/ru/publication/service_process_of_multi_band/</guid>
+      <guid>/ru/ru/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
     
