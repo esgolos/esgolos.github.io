@@ -3,8 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/post/volunteer/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/volunteer/</loc>
     <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/volunteer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/volunteer/"
+                />
   </url>
   
   <url>
@@ -23,8 +38,28 @@
   </url>
   
   <url>
+    <loc>/en/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/en/post/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/</loc>
     <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
   </url>
   
   <url>
@@ -58,13 +93,38 @@
   </url>
   
   <url>
+    <loc>/en/project/group_project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/group_project/</loc>
     <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/group_project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/group_project/"
+                />
   </url>
   
   <url>
     <loc>/project/</loc>
     <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
   </url>
   
   <url>
@@ -73,8 +133,23 @@
   </url>
   
   <url>
+    <loc>/en/project/individual_project/</loc>
+    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/individual_project/</loc>
     <lastmod>2020-11-21T22:16:59+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/individual_project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/individual_project/"
+                />
   </url>
   
   <url>
@@ -108,13 +183,43 @@
   </url>
   
   <url>
+    <loc>/en/publication/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/service_process_of_multi_band/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/service_process_of_multi_band/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/service_process_of_multi_band/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/service_process_of_multi_band/"
+                />
   </url>
   
   <url>
@@ -146,11 +251,37 @@
   </url>
   
   <url>
-    <loc>/en/</loc>
+    <loc>/en/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/ru/post/</loc>
+  </url>
+  
+  <url>
+    <loc>/ru/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>/en/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/ru/talk/</loc>
   </url>
   
   <url>
     <loc>/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
   </url>
   
   <url>

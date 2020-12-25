@@ -3,7 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ru/post/volunteer/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/volunteer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/volunteer/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -17,7 +33,23 @@
   </url>
   
   <url>
+    <loc>/ru/post/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/"
+                />
+  </url>
+  
+  <url>
     <loc>/ru/authors/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -27,6 +59,111 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B0.-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/project/group_project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/group_project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/group_project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B5.-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B5.-%D0%BF%D0%BE%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D1%80.-%D0%BA%D0%BE%D0%BD%D1%8E%D1%85%D0%BE%D0%B2/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/project/individual_project/</loc>
+    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/project/individual_project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/project/individual_project/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/publication/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B4.-%D0%BC%D0%BE%D0%BB%D1%87%D0%B0%D0%BD%D0%BE%D0%B2/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/author/%D0%B5.-%D0%BB%D0%B8%D1%81%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/ru/publication/service_process_of_multi_band/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication/service_process_of_multi_band/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication/service_process_of_multi_band/"
                 />
   </url>
   
@@ -55,6 +192,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/talk/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/talk/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/talk/"
                 />
   </url>
   
