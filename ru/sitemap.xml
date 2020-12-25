@@ -83,21 +83,6 @@
   </url>
   
   <url>
-    <loc>/ru/ru/</loc>
-    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/ru/"
-                />
-  </url>
-  
-  <url>
     <loc>/ru/project/individual_project/</loc>
     <lastmod>2020-11-21T22:16:59+03:00</lastmod>
     <xhtml:link
@@ -110,11 +95,6 @@
                 hreflang="ru"
                 href="/ru/project/individual_project/"
                 />
-  </url>
-  
-  <url>
-    <loc>/ru/ru/project/individual_project/</loc>
-    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
   </url>
   
   <url>
@@ -143,6 +123,10 @@
                 hreflang="ru"
                 href="/ru/post/volunteer/"
                 />
+  </url>
+  
+  <url>
+    <loc>/ru/ru/post/volunteer/</loc>
   </url>
   
   <url>
@@ -212,6 +196,20 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/talk/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/ru/"
                 />
   </url>
   

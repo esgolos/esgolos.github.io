@@ -5,7 +5,7 @@
     <link>/ru/ru/</link>
       <atom:link href="/ru/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Rus</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 21 Nov 2020 22:16:59 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language>
     <image>
       <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
       <title>Rus</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Индивидуальный проект</title>
-      <link>/ru/ru/project/individual_project/</link>
-      <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
-      <guid>/ru/ru/project/individual_project/</guid>
+      <title>5 декабря - День Волонтера</title>
+      <link>/ru/ru/post/volunteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/ru/ru/post/volunteer/</guid>
       <description></description>
     </item>
     
