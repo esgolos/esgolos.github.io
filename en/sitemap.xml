@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/post/volunteer/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-12-05T17:51:48+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/a.-romanova/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/e.-golos/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e.-popkova/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/group_project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/r.-konyukhov/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/individual_project/</loc>
+    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/d.-moltchanov/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/e.-lisovskaya/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/service_process_of_multi_band/</loc>
+    <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>/author/elizaveta-golos/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/author/%D0%B5%D0%BB%D0%B8%D0%B7%D0%B0%D0%B2%D0%B5%D1%82%D0%B0-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/author/elizaveta-golos/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/</loc>
+  </url>
+  
+  <url>
+    <loc>/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>/ru/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+  </url>
+  
+</urlset>
