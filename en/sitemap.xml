@@ -286,6 +286,16 @@
   
   <url>
     <loc>/ru/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/ru/"
+                />
   </url>
   
   <url>
