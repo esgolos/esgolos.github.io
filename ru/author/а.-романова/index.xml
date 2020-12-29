@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>А. Романова | Academic</title>
+    <title>А. Романова | Golos E.S.</title>
     <link>/ru/author/%D0%B0.-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/</link>
       <atom:link href="/ru/author/%D0%B0.-%D1%80%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>А. Романова</description>
@@ -17,6 +17,14 @@
       <link>/ru/project/group_project/</link>
       <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
       <guid>/ru/project/group_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Групповой проект</title>
+      <link>/ru/ru/project/group_project/</link>
+      <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
+      <guid>/ru/ru/project/group_project/</guid>
       <description></description>
     </item>
     
