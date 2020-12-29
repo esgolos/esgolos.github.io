@@ -220,6 +220,16 @@
   <url>
     <loc>/ru/</loc>
     <lastmod>2020-04-17T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/ru/"
+                />
   </url>
   
   <url>
@@ -362,6 +372,10 @@
                 hreflang="en"
                 href="/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>/ru/authors/admin/</loc>
   </url>
   
 </urlset>

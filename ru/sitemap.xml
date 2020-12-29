@@ -3,8 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/ru/post/volunteer/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/volunteer/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/volunteer/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/ru/post/volunteer/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ru/</loc>
-    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -14,6 +34,36 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/post/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ru/ru/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="/ru/ru/"
                 />
   </url>
   
@@ -68,6 +118,11 @@
   </url>
   
   <url>
+    <loc>/ru/ru/project/group_project/</loc>
+    <lastmod>2020-11-24T22:17:15+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/ru/author/%D0%B5.-%D0%B3%D0%BE%D0%BB%D0%BE%D1%81/</loc>
     <lastmod>2020-11-24T22:17:15+03:00</lastmod>
     <xhtml:link
@@ -105,6 +160,11 @@
                 hreflang="ru"
                 href="/ru/project/individual_project/"
                 />
+  </url>
+  
+  <url>
+    <loc>/ru/ru/project/individual_project/</loc>
+    <lastmod>2020-11-21T22:16:59+03:00</lastmod>
   </url>
   
   <url>
@@ -198,20 +258,6 @@
   </url>
   
   <url>
-    <loc>/ru/post/volunteer/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/volunteer/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/post/volunteer/"
-                />
-  </url>
-  
-  <url>
     <loc>/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -222,20 +268,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="/ru/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/ru/post/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="/ru/post/"
                 />
   </url>
   
