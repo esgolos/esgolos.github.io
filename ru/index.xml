@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
     <link>/ru/</link>
-      <atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate>
-    <image>
-      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
-      <link>/ru/</link>
-    </image>
-    
+    <description>Recent content on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate><atom:link href="/ru/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Групповой проект</title>
       <link>/ru/project/group_project/</link>
       <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
+      
       <guid>/ru/project/group_project/</guid>
       <description></description>
     </item>
@@ -24,7 +20,17 @@
       <title>Индивидуальный проект</title>
       <link>/ru/project/individual_project/</link>
       <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
+      
       <guid>/ru/project/individual_project/</guid>
+      <description>Моя персональная страница.</description>
+    </item>
+    
+    <item>
+      <title>Модель обслуживания трафика NR на базовых станциях LTE</title>
+      <link>/ru/publication/service_process_of_multi_band/</link>
+      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/ru/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
     
@@ -32,24 +38,9 @@
       <title>5 декабря - День Волонтера</title>
       <link>/ru/post/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
       <guid>/ru/post/volunteer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>5 декабря - День Волонтера</title>
-      <link>/ru/ru/post/volunteer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ru/ru/post/volunteer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Модель обслуживания трафика NR на базовых станциях LTE</title>
-      <link>/ru/publication/service_process_of_multi_band/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/ru/publication/service_process_of_multi_band/</guid>
-      <description></description>
+      <description>С 2018 года в России по указу президента В.В, Путина 5 декабря отмечается День волонтёра. Эта дата была выбрана, потому что 5 декабря во всём мире отмечается Международный день добровольцев во имя экономического и социального развития. Он был введён в 1985 году по инициативе Генеральной Ассамблеи ООН. С праздником! Будьте добрее, и добро к Вам вернется!</description>
     </item>
     
   </channel>

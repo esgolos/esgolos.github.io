@@ -1,16 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elizaveta Golos | Academic</title>
+    <title>Elizaveta Golos on Academic</title>
     <link>/author/elizaveta-golos/</link>
-      <atom:link href="/author/elizaveta-golos/index.xml" rel="self" type="application/rss+xml" />
-    <description>Elizaveta Golos</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
-      <title>Elizaveta Golos</title>
-      <link>/author/elizaveta-golos/</link>
-    </image>
-    
+    <description>Recent content in Elizaveta Golos on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/author/elizaveta-golos/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

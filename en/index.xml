@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ens | Academic</title>
+    <title>Ens on Academic</title>
     <link>/en/</link>
-      <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ens</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
-    <image>
-      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
-      <title>Ens</title>
-      <link>/en/</link>
-    </image>
-    
+    <description>Recent content in Ens on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate><atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Group project</title>
       <link>/en/project/group_project/</link>
       <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
+      
       <guid>/en/project/group_project/</guid>
       <description></description>
     </item>
@@ -24,8 +20,9 @@
       <title>Individual project</title>
       <link>/en/project/individual_project/</link>
       <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
+      
       <guid>/en/project/individual_project/</guid>
-      <description></description>
+      <description>My personal website.</description>
     </item>
     
   </channel>
