@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E. Golos on Academic</title>
+    <title>E. Golos | Academic</title>
     <link>/author/e.-golos/</link>
-    <description>Recent content in E. Golos on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate><atom:link href="/author/e.-golos/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/author/e.-golos/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Golos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 22:17:15 +0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Golos</title>
+      <link>/author/e.-golos/</link>
+    </image>
+    
     <item>
       <title>Group project</title>
       <link>/en/project/group_project/</link>
       <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
-      
       <guid>/en/project/group_project/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>Group project</title>
       <link>/project/group_project/</link>
       <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
-      
       <guid>/project/group_project/</guid>
       <description></description>
     </item>
@@ -29,25 +32,22 @@
       <title>Individual project</title>
       <link>/en/project/individual_project/</link>
       <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
-      
       <guid>/en/project/individual_project/</guid>
-      <description>My personal website.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Individual project</title>
       <link>/project/individual_project/</link>
       <pubDate>Sat, 21 Nov 2020 22:16:59 +0300</pubDate>
-      
       <guid>/project/individual_project/</guid>
-      <description>My personal website.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
       <link>/en/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/en/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
@@ -56,7 +56,6 @@
       <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
       <link>/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>

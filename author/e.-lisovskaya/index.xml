@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>E. Lisovskaya on Academic</title>
+    <title>E. Lisovskaya | Academic</title>
     <link>/author/e.-lisovskaya/</link>
-    <description>Recent content in E. Lisovskaya on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="/author/e.-lisovskaya/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/author/e.-lisovskaya/index.xml" rel="self" type="application/rss+xml" />
+    <description>E. Lisovskaya</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
+      <title>E. Lisovskaya</title>
+      <link>/author/e.-lisovskaya/</link>
+    </image>
+    
     <item>
       <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
       <link>/en/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/en/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>Service process of multi-band NR/LTE UE traffic at LTE base stations</title>
       <link>/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      
       <guid>/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>

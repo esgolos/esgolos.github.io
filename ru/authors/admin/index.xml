@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Елизавета Голос on Academic</title>
+    <title>Елизавета Голос | Academic</title>
     <link>/ru/authors/admin/</link>
-    <description>Recent content in Елизавета Голос on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/ru/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/ru/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Елизавета Голос</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
+      <title>Елизавета Голос</title>
+      <link>/ru/authors/admin/</link>
+    </image>
+    
   </channel>
 </rss>

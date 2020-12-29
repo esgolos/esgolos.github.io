@@ -1,19 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Academic</title>
+    <title>Posts | Academic</title>
     <link>/en/post/</link>
-    <description>Recent content in Posts on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate><atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/en/post/</link>
+    </image>
+    
     <item>
       <title>5 декабря - День Волонтера</title>
       <link>/en/post/volunteer/</link>
       <pubDate>Sat, 05 Dec 2020 17:51:48 +0300</pubDate>
-      
       <guid>/en/post/volunteer/</guid>
-      <description>С 2018 года в России по указу президента В.В, Путина 5 декабря отмечается День волонтёра. Эта дата была выбрана, потому что 5 декабря во всём мире отмечается Международный день добровольцев во имя экономического и социального развития. Он был введён в 1985 году по инициативе Генеральной Ассамблеи ООН. С праздником! Будьте добрее, и добро к Вам вернется!</description>
+      <description></description>
     </item>
     
   </channel>

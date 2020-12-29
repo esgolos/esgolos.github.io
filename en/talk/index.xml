@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on Academic</title>
+    <title>Recent &amp; Upcoming Talks | Academic</title>
     <link>/en/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on Academic</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/en/talk/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="/en/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/en/talk/</link>
+    </image>
+    
   </channel>
 </rss>
