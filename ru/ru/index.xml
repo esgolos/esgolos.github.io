@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Rus | Golos E.S.</title>
+    <title>Rus |  Academic </title>
     <link>/ru/ru/</link>
       <atom:link href="/ru/ru/index.xml" rel="self" type="application/rss+xml" />
     <description>Rus</description>
@@ -17,14 +17,6 @@
       <link>/ru/ru/post/volunteer/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/ru/ru/post/volunteer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Групповой проект</title>
-      <link>/ru/ru/project/group_project/</link>
-      <pubDate>Tue, 24 Nov 2020 22:17:15 +0300</pubDate>
-      <guid>/ru/ru/project/group_project/</guid>
       <description></description>
     </item>
     

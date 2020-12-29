@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golos E.S.</title>
+    <title> Academic </title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Golos E.S.</description>
+    <description> Academic </description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Dec 2020 17:51:48 +0300</lastBuildDate>
     <image>
       <url>/images/icon_hu839765730c87c99f181a3301da88db9e_131153_512x512_fill_lanczos_center_2.png</url>
-      <title>Golos E.S.</title>
+      <title> Academic </title>
       <link>/</link>
     </image>
     
@@ -73,14 +73,6 @@
       <link>/publication/service_process_of_multi_band/</link>
       <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
       <guid>/publication/service_process_of_multi_band/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Модель обслуживания трафика NR на базовых станциях LTE</title>
-      <link>/ru/publication/service_process_of_multi_band/</link>
-      <pubDate>Fri, 17 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/ru/publication/service_process_of_multi_band/</guid>
       <description></description>
     </item>
     
